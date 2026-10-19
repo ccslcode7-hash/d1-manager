@@ -1,6 +1,0 @@
-name = "d1-manager"
-pages_build_output_dir = ".svelte-kit/cloudflare"
-[[d1_databases]]
-binding = "DB"
-database_name = "dseclassics_cloudflare"
-database_id = "6af0a42f-ba20-46de-87e8-e4f253e496ec"
